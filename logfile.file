@@ -1,0 +1,72 @@
+2021-09-08 18:31:26,355  :INFO :utilities.baseclass :Entering the First Name
+2021-09-08 18:31:26,499  :INFO :utilities.baseclass :Given a valid email address
+2021-09-08 18:31:26,582  :INFO :utilities.baseclass :Setting up a Password
+2021-09-08 18:31:27,192  :INFO :utilities.baseclass :Entering the First Name
+2021-09-08 18:31:27,192  :INFO :utilities.baseclass :Entering the First Name
+2021-09-08 18:31:27,294  :INFO :utilities.baseclass :Given a valid email address
+2021-09-08 18:31:27,294  :INFO :utilities.baseclass :Given a valid email address
+2021-09-08 18:31:27,414  :INFO :utilities.baseclass :Setting up a Password
+2021-09-08 18:31:27,414  :INFO :utilities.baseclass :Setting up a Password
+2021-09-08 18:37:10,673  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-08 18:37:10,793  :INFO :utilities.baseclass :Given a valid email address
+2021-09-08 18:37:10,879  :INFO :utilities.baseclass :Setting up a Password
+2021-09-08 18:37:11,516  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-08 18:37:11,516  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-08 18:37:11,597  :INFO :utilities.baseclass :Given a valid email address
+2021-09-08 18:37:11,597  :INFO :utilities.baseclass :Given a valid email address
+2021-09-08 18:37:11,679  :INFO :utilities.baseclass :Setting up a Password
+2021-09-08 18:37:11,679  :INFO :utilities.baseclass :Setting up a Password
+2021-09-09 12:23:18,540  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-09 12:23:18,709  :INFO :utilities.baseclass :Given a valid email address
+2021-09-09 12:23:18,834  :INFO :utilities.baseclass :Setting up a Password
+2021-09-09 12:23:19,489  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-09 12:23:19,489  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-09 12:23:19,617  :INFO :utilities.baseclass :Given a valid email address
+2021-09-09 12:23:19,617  :INFO :utilities.baseclass :Given a valid email address
+2021-09-09 12:23:19,754  :INFO :utilities.baseclass :Setting up a Password
+2021-09-09 12:23:19,754  :INFO :utilities.baseclass :Setting up a Password
+2021-09-09 17:30:11,335  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-09 17:30:11,472  :INFO :utilities.baseclass :Given a valid email address
+2021-09-09 17:30:11,576  :INFO :utilities.baseclass :Setting up a Password
+2021-09-09 17:30:12,393  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-09 17:30:12,393  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-09 17:30:12,493  :INFO :utilities.baseclass :Given a valid email address
+2021-09-09 17:30:12,493  :INFO :utilities.baseclass :Given a valid email address
+2021-09-09 17:30:12,594  :INFO :utilities.baseclass :Setting up a Password
+2021-09-09 17:30:12,594  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 12:32:47,327  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-13 12:32:47,513  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 12:32:47,625  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 12:32:48,545  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-13 12:32:48,545  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-13 12:32:48,658  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 12:32:48,658  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 12:32:48,771  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 12:32:48,771  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 12:53:19,577  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-13 12:53:19,621  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 12:53:19,657  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 12:53:22,012  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-13 12:53:22,012  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-13 12:53:22,049  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 12:53:22,049  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 12:53:22,074  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 12:53:22,074  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 17:51:47,882  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-13 17:51:48,027  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 17:51:48,111  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 17:51:48,761  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-13 17:51:48,761  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-13 17:51:48,851  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 17:51:48,851  :INFO :utilities.baseclass :Given a valid email address
+2021-09-13 17:51:48,945  :INFO :utilities.baseclass :Setting up a Password
+2021-09-13 17:51:48,945  :INFO :utilities.baseclass :Setting up a Password
+2021-09-15 15:22:31,543  :INFO :utilities.baseclass :First Name is Bhavnish
+2021-09-15 15:22:31,730  :INFO :utilities.baseclass :Given a valid email address
+2021-09-15 15:22:31,833  :INFO :utilities.baseclass :Setting up a Password
+2021-09-15 15:22:32,970  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-15 15:22:32,970  :INFO :utilities.baseclass :First Name is Avnish
+2021-09-15 15:22:33,096  :INFO :utilities.baseclass :Given a valid email address
+2021-09-15 15:22:33,096  :INFO :utilities.baseclass :Given a valid email address
+2021-09-15 15:22:33,217  :INFO :utilities.baseclass :Setting up a Password
+2021-09-15 15:22:33,217  :INFO :utilities.baseclass :Setting up a Password

@@ -17,10 +17,10 @@ class Testtwo(baseclass):
         log.info("First Name is "+getData["FirstName"])
         signup.getemail().send_keys(getData["email"])
         log.info("Given a valid email address")
-        log.info("Valid email address given")
+
         signup.getpassword().send_keys(getData["password"])
         log.info("Password recieved")
-        log.info("Setting up a Password")
+        
         signup.clickcheckbox().click()
         self.selectdropdownvalue(signup.getdropdown(),0)
         signup.clickradio().click()
